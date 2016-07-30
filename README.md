@@ -4,5 +4,5 @@ The project is designed to predict foreign exchange rates. It takes opening , ma
 ##How to use 
 Install torch from [this link](https://github.com/torch/torch7/wiki/Cheatsheet)
 Download free forex data from [here](http://www.histdata.com/) and convert the csv file into txt file separated by ;.
-This data will form your training and validation set. Download the code and run on your system by using *th <filename>*
+This data will form your training and validation set. Download the code and run on your system by using *th filename*
 You will also see a graph plot between the expected value and predicted value.
