@@ -21,7 +21,5 @@ This data will form your training and validation set. Download the code and run 
 You will also see a graph plot between the expected value and predicted value.
 
 Contributors:
-
-1.Aditya Jhawar
-
-2.Aarsh Prakash Agarwal
+Aditya Jhawar
+Aarsh Prakash Agarwal
